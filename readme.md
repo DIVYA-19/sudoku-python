@@ -8,10 +8,10 @@ actions:
 * quit - exits the game
 
 ### start
-![togo2](https://github.com/DIVYA-19/simple_things/blob/master/sudoku/start.PNG)
+![togo2](https://github.com/DIVYA-19/sudoku-python/blob/master/start.PNG)
 ### 6X6
-![togo2](https://github.com/DIVYA-19/simple_things/blob/master/sudoku/6.PNG)
+![togo2](https://github.com/DIVYA-19/sudoku-python/blob/master/6.PNG)
 ### 9X9
-![togo2](https://github.com/DIVYA-19/simple_things/blob/master/sudoku/9.PNG)
+![togo2](https://github.com/DIVYA-19/sudoku-python/blob/master/9.PNG)
 ### 15X15
-![togo2](https://github.com/DIVYA-19/simple_things/blob/master/sudoku/15.PNG)
+![togo2](https://github.com/DIVYA-19/sudoku-python/blob/master/15.PNG)
